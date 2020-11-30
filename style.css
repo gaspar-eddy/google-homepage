@@ -1,0 +1,42 @@
+.googlepic{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.searchbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+#container {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    font-size: small;
+}
+.ab {
+    margin-left: 15px;
+}
+.st {
+    margin-left: 15px;
+}
+.push {
+    margin-left: auto;
+}
+.im {
+    margin-left: 15px; 
+}
+#ftbar {
+    font-size: 10pt;
+    bottom: 0;
+    position: absolute;  
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: center;
+}
+.footcnt {
+    align-self: center;
+}
